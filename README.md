@@ -1,4 +1,4 @@
-# Rsa_algo
+# Rsa_algo_LSBU
 Rsa algorithm for LSBU with GUI
 
 
@@ -8,4 +8,7 @@ Install first
 pip install -r requirements.txt
 ```
 
-Run rsagui only 
+Run This file only 
+```
+rsagui.py
+```
